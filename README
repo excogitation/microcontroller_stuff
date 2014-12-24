@@ -1,0 +1,16 @@
+L6234
+
+The L6234 is a three phase motordriver from ST (st.com)
+datasheet - http://www.st.com/web/en/resource/technical/document/datasheet/CD00000046.pdf
+
+It makes use of 3 half-bridges, enabling you to drive a bldc motor with your
+favorite microcontroller and 3 pwm pins. (+ one additional output to enable the driver).
+
+There is no feedback, so you rely on (like with a stepper motor) the load resistance being
+lower than the motor torque (or you have to add some sort of feedback like an imu).
+
+setup:
+<img src="https://picasaweb.google.com/lh/photo/yv46VXuHmlk8EDwaDShzLxaRlmf8BEaKb0Vk4NAJA6s?feat=directlink" \>
+phase output of 2 phases:
+<img src="https://picasaweb.google.com/lh/photo/fTwxAF3-jyHLYyXNZYc7ORaRlmf8BEaKb0Vk4NAJA6s?feat=directlink" \>
+
