@@ -1,4 +1,11 @@
-L6234
+##piddybot
+Inspired from http://www.idlehandsproject.com/piddybot-a-self-balancing-teaching-tool/ but not willing to pay the 100USD
+for parts ordering from Sparkfun I looked up the parts on aliexpress and ordered everything and a gyro with the same chips on it (GY-85).
+
+Modified sources + schematic files are in piddybot.
+
+
+##L6234
 
 The L6234 is a three phase motordriver from ST (st.com)
 datasheet - http://www.st.com/web/en/resource/technical/document/datasheet/CD00000046.pdf
@@ -13,3 +20,6 @@ setup:
 ![test](https://lh6.googleusercontent.com/-kZpJjEVX8Ik/VJsOuHbK2eI/AAAAAAAAlZ8/nMfAdd5b4XE/s640/IMG_20141222_173939.jpg)
 phase output of 2 phases:
 ![](https://lh4.googleusercontent.com/-zENCOi27_vo/VJsOuCxgy4I/AAAAAAAAlYs/JeuuS_nsfDE/s640/IMG_20141222_175256.jpg)
+
+
+
