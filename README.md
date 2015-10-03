@@ -17,9 +17,13 @@ There is no feedback, so you rely on (like with a stepper motor) the load resist
 lower than the motor torque (or you have to add some sort of feedback like an imu).
 
 setup:
-![test](https://lh6.googleusercontent.com/-kZpJjEVX8Ik/VJsOuHbK2eI/AAAAAAAAlZ8/nMfAdd5b4XE/s640/IMG_20141222_173939.jpg)
+![test setup](https://lh6.googleusercontent.com/-kZpJjEVX8Ik/VJsOuHbK2eI/AAAAAAAAlZ8/nMfAdd5b4XE/s640/IMG_20141222_173939.jpg)
 phase output of 2 phases:
-![](https://lh4.googleusercontent.com/-zENCOi27_vo/VJsOuCxgy4I/AAAAAAAAlYs/JeuuS_nsfDE/s640/IMG_20141222_175256.jpg)
+![2phase output viewed with an oscilloscope](https://lh4.googleusercontent.com/-zENCOi27_vo/VJsOuCxgy4I/AAAAAAAAlYs/JeuuS_nsfDE/s640/IMG_20141222_175256.jpg)
+
+##SSD1306
+![SSD1306](https://lh3.googleusercontent.com/-yK1OUCjUUCY/Vg84WeBtuLI/AAAAAAAAye0/WlF1pN5If_E/s400-Ic42/IMG_20151003_014038.jpg)
+
 
 
 

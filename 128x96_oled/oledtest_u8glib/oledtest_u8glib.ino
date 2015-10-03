@@ -50,7 +50,7 @@ void draw(void) {
   // graphic commands to redraw the complete screen should be placed here  
   u8g.setFont(u8g_font_unifont);
   //u8g.setFont(u8g_font_osb21);
-  u8g.drawStr( 0, 22, "Hello World!");
+  u8g.drawStr( 0, 22, "11111111111111111!!1");
 }
 
 void setup(void) {
